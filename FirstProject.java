@@ -15,5 +15,8 @@ public class FirstProject {
         System.out.println("oye");
 
         int arr[] = new int[2];
+
+        arr[0] = 19;
+        arr[1] = 123;
     }
 }
